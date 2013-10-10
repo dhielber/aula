@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 commit branch 2
+=======
+commit 4
+>>>>>>> 2a70eddc7a2e667655515ff1eff76dec8cdf219c
 1 dhielber
 2 aaaaaaaaaa
 3 bbbbbbbbbbb
